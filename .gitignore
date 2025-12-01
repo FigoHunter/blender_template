@@ -1,0 +1,5 @@
+*.egg-info
+process/*
+temp/*
+temp_process/*
+__pycache__/
