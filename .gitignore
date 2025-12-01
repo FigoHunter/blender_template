@@ -3,3 +3,4 @@ process/*
 temp/*
 temp_process/*
 __pycache__/
+conda/
